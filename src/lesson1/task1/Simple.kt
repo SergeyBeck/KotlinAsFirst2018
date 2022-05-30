@@ -9,6 +9,8 @@ import kotlin.math.*
  * Вычисление квадрата целого числа
  */
 fun sqr(x: Int) = x * x
+val xx = sqr(x)
+println("Квдрат целого числа: $xx")
 
 /**
  * Пример
